@@ -1,4 +1,4 @@
-# Ola, eu sou o Joao Henrique! / Hi, I'm Joao!
+# Ola, eu sou o João Henrique! / Hi, I'm Joao!
 
 Estudante de Engenharia de Computacao na UNIFEI - Campus Itabira. Sou apaixonado por desenvolvimento de sistemas, focado na criacao de solucoes robustas, escalaveis e de alta performance, unindo os fundamentos da engenharia com boas praticas de codigo.
 
@@ -17,7 +17,7 @@ Computer Engineering student at UNIFEI. I'm passionate about systems development
 ### Experience & Projects
 
 * **Monitoria em Logica de Programacao / Programming Logic Teaching Assistant:** Auxilio aos alunos no desenvolvimento do raciocinio logico e aprendizado de programacao, reforcando fundamentos essenciais da computacao. / Assisting students in developing logical reasoning and learning programming, reinforcing essential computer science fundamentals.
-* * **Equipe de Competicao de Robotica / Robotics Competition Team:** Aplicacao de conhecimentos de engenharia e programacao em projetos de robotica competitiva, focando em resolucao de problemas e trabalho em equipe. / Application of engineering and programming knowledge in competitive robotics projects, focusing on problem-solving and teamwork.
+* **Equipe de Competicao de Robotica / Robotics Competition Team:** Aplicacao de conhecimentos de engenharia e programacao em projetos de robotica competitiva, focando em resolucao de problemas e trabalho em equipe. / Application of engineering and programming knowledge in competitive robotics projects, focusing on problem-solving and teamwork.
 
 ---
 
